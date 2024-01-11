@@ -22,7 +22,7 @@ role: PhD Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: UT Austin
-    url: [https://www.cs.utexas.edu](https://www.cs.utexas.edu)
+    url: https://www.cs.utexas.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: Released the first publically downloadable, open-source large language model and dataset. Research interests include language grounding, LLM agents, and reinforcement learning.
