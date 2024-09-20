@@ -1,0 +1,15 @@
+---
+layout: post  
+title:  "CAPE: Corrective Actions from Precondition Errors using Large Language Models"  
+date:   2023-05-13 00:00:00 +00:00  
+image: /images/cape_model.jpg  
+categories: research  
+author: "Vanya Cohen"  
+authors: "Shreyas Sundara Raman, <strong>Vanya Cohen</strong>, Ifrah Idrees, Eric Rosen, Ray Mooney, Stefanie Tellex, David Paulius"  
+venue: "ICRA"  
+arxiv: http://www.arxiv.org/abs/2211.09935  
+code: https://shreyas-s-raman.github.io/CAPE/
+website: https://shreyas-s-raman.github.io/CAPE/
+---
+
+CAPE introduces a novel approach for resolving precondition errors in task planning for robotic agents by leveraging large language models (LLMs). The method re-prompts LLMs using error feedback, allowing robots to make corrective actions in real-world environments. We implement CAPE on a Spot robot and demonstrate improvements over prior open-loop planning methods.

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Grounding Language Attributes to Objects using Bayesian Eigenobjects"
+date:   2019-11-03 00:00:00 +00:00
+image: /images/3dgaussian.jpg
+categories: research
+author: "Vanya Cohen"
+authors: "<strong>Vanya Cohen*</strong>, Benjamin Burchfiel*, Thao Nguyen*, Nakul Gopalan, Stefanie Tellex, George Konidaris"
+venue: "IROS"
+arxiv: http://www.arxiv.org/abs/1905.13153
+code: https://github.com/vanyacohen/beo-language-grounding
+website: https://h2r.cs.brown.edu/understanding-adjectives/
+---
+A method to recognize 3D objects using natural language descriptions and depth images. The system leverages unsupervised learning on 3D object meshes and a small amount of annotated data and generalizes to unseen viewpoints.
