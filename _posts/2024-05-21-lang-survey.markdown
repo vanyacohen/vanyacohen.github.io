@@ -11,5 +11,4 @@ arxiv: http://www.arxiv.org/abs/2405.13245
 code:
 website: https://h2r.cs.brown.edu/a-survey-of-robotic-language-grounding-tradeoffs-between-symbols-and-embeddings/
 ---
-
 This survey of robotic language grounding positions recent approaches along an axis that spans from methods that map between language to formal symbolic representations to those that map to high-dimensional vector spaces. The study explores the trade-offs between interpretability, generalizability, and the scalability of these methods.

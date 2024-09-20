@@ -1,0 +1,14 @@
+---
+layout: post  
+title:  "CaT-Bench: Benchmarking Language Model Understanding of Causal and Temporal Dependencies in Plans"  
+date:   2024-06-22 00:00:00 +00:00  
+image: /images/cat_bench.jpg  
+categories: research  
+author: "Vanya Cohen"  
+authors: "Yash Kumar Lal*, <strong>Vanya Cohen*</strong>, Nathanael Chambers, Niranjan Balasubramanian, Raymond Mooney"  
+venue: "EMNLP"  
+arxiv: http://www.arxiv.org/abs/2406.15823  
+code: 
+website: http://www.arxiv.org/abs/2406.15823  
+---
+CaT-Bench evaluates language models' ability to reason about step dependencies in task plans, using causal and temporal relations. It tests models' accuracy in predicting step order and explanations.
