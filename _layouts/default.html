@@ -1,0 +1,141 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+  <!-- Google Analytics script -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-E00L9PT3V9"></script>
+  <script>
+    // Google Analytics configuration
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    // Google Analytics ID
+    gtag('config', 'G-E00L9PT3V9');
+  </script>
+
+  <!-- Page title dynamically set from site configuration -->
+  <title>{{ site.name }}</title>
+
+  <!-- Meta tags for character encoding, author, and viewport settings -->
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  <meta name="author" content="{{ site.name }}" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Link to external CSS stylesheet -->
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+
+  <!-- Canonical link for SEO -->
+  <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | prepend: site.baseurl | prepend: site.url }}">
+
+  <!-- Google Fonts link -->
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+</head>
+
+<body>
+  <!-- Main container with specified width and centered on the page -->
+  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <tr style="padding:0px">
+      <td style="padding:0px">
+        
+        <!-- Header section with profile and links -->
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr style="padding:0px">
+            <td style="padding:2.5%;width:60%;vertical-align:middle">
+              <h1>Vanya Cohen</h1>
+              <p>I am a PhD Student at the University of Texas at Austin (currently on leave) and AI Scientist at Blackbird.AI. My PhD advisor is Ray Mooney.</p>
+              <p>I completed my BSc and MSc at Brown University advised by Stefanie Tellex and George Konidaris.</p>
+              <!-- Links to email, GitHub, Google Scholar, and LinkedIn -->
+              <p style="text-align:center">
+                <a target="_blank" href="https://mailhide.io/e/MU81KO1L">Email</a> &nbsp;/&nbsp;
+                <!-- <a href="https://github.com/vanyacohen">GitHub</a> &nbsp;/&nbsp; -->
+                <a href="https://scholar.google.com/citations?user=VSc-eTAAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
+                <a href="https://www.linkedin.com/in/vanyacohen">LinkedIn</a>
+              </p>
+            </td>
+            <!-- Profile image -->
+            <td style="padding:2.5%;width:40%;max-width:40%">
+              <img style="width:100%;max-width:100%" alt="profile photo" src="images/profile.jpg">
+            </td>
+          </tr>
+        </table>
+
+        <!-- Research section -->
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h2>Research</h2>
+              <p>I'm interested in grounded natural language processing, reinforcement learning, and robotics.</p>
+            </td>
+          </tr>
+        </table>
+
+        <!-- Research projects list -->
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          {% for post in site.posts %}
+          {% for cat in post.categories %}
+          {% if cat == 'research' %}
+          <tr>
+            <!-- Project thumbnail -->
+            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+            </td>
+            <!-- Project details -->
+            <td style="padding:2.5%;width:75%;vertical-align:middle">
+              <h3>{{post.title}}</h3>
+              <br>
+              {{post.authors}}
+              <br>
+              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+              <br>
+              <!-- Links to resources like arxiv, video, code, etc. -->
+              {% if post.arxiv %}
+              <a href="{{post.arxiv}}">arxiv</a> /
+              {% endif %}
+              {% if post.video %}
+              <a href="{{post.video}}">video</a> /
+              {% endif %}
+              {% if post.code %}
+              <a href="{{post.code}}">code</a> /
+              {% endif %}
+              {% if post.poster %}
+              <a href="{{post.poster}}">poster</a> /
+              {% endif %}
+              {% if post.slides %}
+              <a href="{{post.slides}}">slides</a> /
+              {% endif %}
+              {% if post.website %}
+              <a href="{{post.website}}">website</a> /
+              {% endif %}
+              {% if post.youtube %}
+              <a href="{{post.youtube}}">youtube</a> /
+              {% endif %}
+              <p></p>
+              {{ post.excerpt }}
+            </td>
+          </tr>
+          {% endif %}
+          {% endfor %}
+          {% endfor %}
+        </table>
+
+        <!-- Footer with design credits -->
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:0px">
+              <br>
+              <p style="text-align:center;font-size:small;">
+                Design and source code from <a style="font-size:small;" href="https://jonbarron.info">Jon Barron's website</a>
+              </p>
+            </td>
+          </tr>
+        </table>
+
+      </td>
+    </tr>
+  </table>
+</body>
+
+</html>
