@@ -12,4 +12,4 @@ code: https://shreyas-s-raman.github.io/CAPE/
 website: https://shreyas-s-raman.github.io/CAPE/
 ---
 
-CAPE introduces a novel approach for resolving precondition errors in task planning for robotic agents by leveraging large language models (LLMs). The method re-prompts LLMs using error feedback, allowing robots to make corrective actions in real-world environments. We implement CAPE on a Spot robot and demonstrate improvements over prior open-loop planning methods.
+CAPE resolves precondition errors in task planning for robotic agents by leveraging large language models (LLMs). The method re-prompts LLMs using error feedback, allowing robots to make corrective actions in real-world environments. We implement CAPE on a Spot robot and demonstrate improvements over prior open-loop planning methods.
