@@ -2,7 +2,7 @@
 layout: post
 title:  "Grounding Language Attributes to Objects using Bayesian Eigenobjects"
 date:   2019-05-30 00:00:00 +00:00
-image: /images/3dgaussian.jpg
+image: /images/beo-lang.png
 categories: research
 author: "Vanya Cohen"
 authors: "<strong>Vanya Cohen*</strong>, Benjamin Burchfiel*, Thao Nguyen*, Nakul Gopalan, Stefanie Tellex, George Konidaris"

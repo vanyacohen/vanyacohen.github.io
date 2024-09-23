@@ -2,7 +2,7 @@
 layout: post  
 title:  "A Survey of Robotic Language Grounding: Tradeoffs Between Symbols and Embeddings"  
 date:   2024-05-21 00:00:00 +00:00  
-image: /images/robotic_language_grounding.jpg  
+image: /images/lang-survey.png  
 categories: research  
 author: "Vanya Cohen"  
 authors: "<strong>Vanya Cohen*</strong>, Jason Xinyu Liu*, Raymond Mooney*, Stefanie Tellex*, David Watkins*"  

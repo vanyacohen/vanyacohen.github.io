@@ -2,7 +2,7 @@
 layout: post  
 title:  "CAPE: Corrective Actions from Precondition Errors using Large Language Models"  
 date:   2023-05-13 00:00:00 +00:00  
-image: /images/cape_model.jpg  
+image: /images/cape.png  
 categories: research  
 author: "Vanya Cohen"  
 authors: "Shreyas Sundara Raman, <strong>Vanya Cohen</strong>, Ifrah Idrees, Eric Rosen, Ray Mooney, Stefanie Tellex, David Paulius"  

@@ -2,7 +2,7 @@
 layout: post  
 title:  "CaT-Bench: Benchmarking Language Model Understanding of Causal and Temporal Dependencies in Plans"  
 date:   2024-06-22 00:00:00 +00:00  
-image: /images/cat_bench.jpg  
+image: /images/catbench.png  
 categories: research  
 author: "Vanya Cohen"  
 authors: "Yash Kumar Lal*, <strong>Vanya Cohen*</strong>, Nathanael Chambers, Niranjan Balasubramanian, Raymond Mooney"  
