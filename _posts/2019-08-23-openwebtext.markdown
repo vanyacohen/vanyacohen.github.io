@@ -5,8 +5,8 @@ date:   2019-02-07 00:00:00 +00:00
 image: /images/openwebtext.png  
 categories: research  
 author: "Vanya Cohen"
-authors: "Aaron Gokaslan, <strong>Vanya Cohen</strong>"  
-venue: "Hugging Face Datasets"  
+authors: "Aaron Gokaslan, <strong>Vanya Cohen</strong>, Ellie Pavlick, Stefanie Tellex"  
+venue: "NeurIPS Workshop"  
 arxiv: https://arxiv.org/abs/1905.13153
 code: https://github.com/Skylion007/openwebtext
 website: https://huggingface.co/datasets/Skylion007/openwebtext 
