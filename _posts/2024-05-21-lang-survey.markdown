@@ -11,4 +11,4 @@ arxiv: http://www.arxiv.org/abs/2405.13245
 code:
 website: https://h2r.cs.brown.edu/a-survey-of-robotic-language-grounding-tradeoffs-between-symbols-and-embeddings/
 ---
-Robotic language grounding methods can be positioned along an axis that ranges from methods that map natural language to formal symbolic representations to those that map to high-dimensional vector spaces. The study explores the trade-offs between interpretability, generalizability, and the scalability of these methods.
+Robotic language grounding methods can be positioned along an axis that ranges from methods that map natural language to formal symbolic representations to those that map to high-dimensional vector spaces. The survey explores the trade-offs between interpretability, generalizability, and the scalability of these methods.
