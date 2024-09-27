@@ -11,4 +11,4 @@ arxiv: http://www.arxiv.org/abs/1905.13153
 code: https://github.com/vanyacohen/beo-language-grounding
 website: https://h2r.cs.brown.edu/understanding-adjectives/
 ---
-Presents a method to recognize 3D objects using natural language descriptions and depth images. The system leverages unsupervised learning on 3D object meshes and a small amount of annotated data and generalizes to unseen and novel viewpoints.
+A method to recognize 3D objects from natural language descriptions and depth images. The system leverages unsupervised learning on 3D object meshes and a small amount of annotated data and generalizes to unseen and novel viewpoints.

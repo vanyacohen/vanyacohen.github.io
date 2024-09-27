@@ -11,4 +11,4 @@ arxiv: http://www.arxiv.org/abs/2406.15823
 code: 
 website: http://www.arxiv.org/abs/2406.15823  
 ---
-CaT-Bench evaluates language models' ability to reason about step dependencies in task plans, using causal and temporal relations. It tests models' accuracy in predicting step order and explanations.
+Evaluates language models' ability to reason about step dependencies in task plans, using causal and temporal relations. It tests models' accuracy in predicting step dependencies and explanations.

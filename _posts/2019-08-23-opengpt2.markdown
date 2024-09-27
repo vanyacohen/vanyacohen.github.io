@@ -1,0 +1,14 @@
+---
+layout: post  
+title:  "OpenGPT-2: We Replicated GPT-2 Because You Can Too"  
+date:   2019-02-07 00:00:00 +00:00  
+image: /images/opengpt2.png  
+categories: research  
+author: "Vanya Cohen"
+authors: "Aaron Gokaslan, <strong>Vanya Cohen</strong>"  
+venue: "NeurIPS Workshop"
+article: https://www.wired.com/story/dangerous-ai-open-source/
+blog: https://medium.com/@vanya_cohen/opengpt-2-we-replicated-gpt-2-because-you-can-too-45e34e6d36dc
+code: https://github.com/Skylion007/openwebtext
+---
+OpenGPT-2 is a replication of OpenAI's 1.5B parameter GPT-2 LLM. Our model was the first open-source, publically downloadable LLM. It was trained on our OpenWebText dataset and was followed by several other prominent open-source LLM releases.
