@@ -11,4 +11,4 @@ arxiv: https://arxiv.org/abs/1905.13153
 code: https://github.com/Skylion007/openwebtext
 website: https://huggingface.co/datasets/Skylion007/openwebtext 
 ---
-OpenWebText is a replication of OpenAI's WebText dataset. The dataset has been downloaded over 4 million times. This dataset was used to train our model OpenGPT-2, among other LLMs. It has since provided a standard corpus of web content for NLP various tasks and methods.
+OpenWebText is a replication of OpenAI's WebText dataset. It has been downloaded over 4 million times. OpenWebText was used to train our model OpenGPT-2, among other LLMs.
