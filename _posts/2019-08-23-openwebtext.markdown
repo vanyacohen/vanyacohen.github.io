@@ -5,7 +5,7 @@ date:   2019-05-01 00:00:00 +00:00
 image: /images/openwebtext.png  
 categories: research  
 author: "Vanya Cohen"
-authors: "Aaron Gokaslan, <strong>Vanya Cohen</strong>, Ellie Pavlick, Stefanie Tellex" 
+authors: "Aaron Gokaslan*, <strong>Vanya Cohen*</strong>, Ellie Pavlick, Stefanie Tellex" 
 venue: "NeurIPS Workshop"  
 arxiv: https://arxiv.org/abs/1905.13153
 code: https://github.com/Skylion007/openwebtext

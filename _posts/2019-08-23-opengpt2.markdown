@@ -5,7 +5,7 @@ date:   2019-08-23 00:00:00 +00:00
 image: /images/opengpt2.png  
 categories: research  
 author: "Vanya Cohen"
-authors: "Aaron Gokaslan, <strong>Vanya Cohen</strong>, Ellie Pavlick, Stefanie Tellex"  
+authors: "Aaron Gokaslan*, <strong>Vanya Cohen*</strong>, Ellie Pavlick, Stefanie Tellex"  
 venue: "NeurIPS Workshop"
 article: https://www.wired.com/story/dangerous-ai-open-source/
 blog: https://medium.com/@vanya_cohen/opengpt-2-we-replicated-gpt-2-because-you-can-too-45e34e6d36dc
