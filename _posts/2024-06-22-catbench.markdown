@@ -8,7 +8,7 @@ author: "Vanya Cohen"
 authors: "Yash Kumar Lal*, <strong>Vanya Cohen*</strong>, Nathanael Chambers, Niranjan Balasubramanian, Raymond Mooney"  
 venue: "EMNLP"  
 arxiv: http://www.arxiv.org/abs/2406.15823  
-code: 
-website: http://www.arxiv.org/abs/2406.15823  
+dataset: https://huggingface.co/datasets/vanyacohen/CaT-Bench
+code: https://github.com/StonyBrookNLP/CaT-Bench
 ---
 A benchmark that evaluates language models' ability to reason about step dependencies in task plans, using causal and temporal relations. It tests LLMs ability to predicting procedure dependencies and give explanations. We find SOTA LLMs perform poorly on this task despite its simplicity.
