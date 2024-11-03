@@ -1,0 +1,13 @@
+# If you want to link only specific pages in your header, add the path to the
+# pages in order as they should show up.
+main:
+  - title: "About"
+    url: /#about
+  - title: "News"
+    url: /#news
+  - title: "Publications"
+    url: /#publications
+  - title: "Blog"
+    url: /blog
+  - title: "CV"
+    url: /assets/cv/CV.pdf
