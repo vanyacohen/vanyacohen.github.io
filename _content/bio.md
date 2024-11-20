@@ -32,7 +32,7 @@
                 <b>Research:</b> My research centers on grounded natural language processing, reinforcement learning, and robotics. Broadly, I am interested in creating AI systems that can understand and interact with complex environments through language and action.
                 <ul></ul>
                 <b>Timeline:</b> Before starting my PhD and position at <a href="https://blackbird.ai">Blackbird.AI</a>, I worked at <a href="https://en.wikipedia.org/wiki/Luminoso">Luminoso</a> in Boston, contributing to <a href="https://conceptnet.io">ConceptNet</a>.<br>
-                I completed my in Computer Science at 
+                I completed my B.Sc. and M.Sc. in Computer Science at 
                 <a href="https://cs.brown.edu">Brown University</a>, where I was advised by Stefanie Tellex and George Konidaris in the 
                 <a href="https://h2r.cs.brown.edu">Humans to Robots Lab</a>.
                 <ul></ul>
