@@ -8,6 +8,6 @@ main:
   - title: "Publications"
     url: /#publications
   - title: "Blog"
-    url: /blog
+    url: https://substack.com/@vanyacohen
   - title: "CV"
     url: /assets/cv/CV.pdf
