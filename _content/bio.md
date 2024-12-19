@@ -36,7 +36,7 @@
                 <a href="https://cs.brown.edu">Brown University</a>, where I was advised by Stefanie Tellex and George Konidaris in the 
                 <a href="https://h2r.cs.brown.edu">Humans to Robots Lab</a>.
                 <ul></ul>
-                <b>Fun facts:</b> I helped create the first publicly released, open-source LLM <a href="https://www.wired.com/story/dangerous-ai-open-source/">OpenGPT-2</a> and dataset <a href="https://huggingface.co/datasets/Skylion007/openwebtext">OpenWebText</a>. My <a href="https://www.csauthors.net/distance/vanya-cohen/paul-erdos">Erdős number is 3</a>.
+                <b>Fun facts:</b> I co-created the first publicly released, open-source LLM <a href="https://www.wired.com/story/dangerous-ai-open-source/">OpenGPT-2</a> and dataset <a href="https://huggingface.co/datasets/Skylion007/openwebtext">OpenWebText</a>. My <a href="https://www.csauthors.net/distance/vanya-cohen/paul-erdos">Erdős number is 3</a>.
             </td>
         </tr>
     </tbody>
