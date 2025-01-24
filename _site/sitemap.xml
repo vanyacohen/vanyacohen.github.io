@@ -6,4 +6,8 @@
 <url>
 <loc>http://localhost:4000/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/assets/cv/CV.pdf</loc>
+<lastmod>2024-12-15T21:59:01+00:00</lastmod>
+</url>
 </urlset>
