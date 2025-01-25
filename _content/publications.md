@@ -22,7 +22,7 @@
     <strong>Vanya Cohen*</strong>, Geraud Nangue Tasse*, Nakul Gopalan, Steven James, Matthew Gombolay, Ray Mooney, Benjamin Rosman.<br>
     <em>TMLR 2024</em>, December 2024.<br>
     <a href="https://arxiv.org/abs/2501.12539">[paper]</a><br>
-    Introduces a novel method for learning a semantic parser using policy rollouts in an environment and in-context learning. This approach enables solving the (currently) largest simultaneously learned suite of compositional language-RL tasks.
+    Introduces a novel semantic parsing technique that leverages policy rollouts within an environment and in-context learning. This approach enables solving the (currently) largest simultaneously learned suite of compositional language-RL tasks.
   </div>
 </div>
 
