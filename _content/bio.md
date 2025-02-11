@@ -27,7 +27,7 @@
             <td>  
                 I am a PhD Student at the 
                 <a href="https://www.cs.utexas.edu/~ml/">University of Texas at Austin</a>
-                 and Research Scientist at <a href="https://blackbird.ai">Blackbird.AI</a>, where I created <a href="https://blackbird.ai/compass-context/">Compass</a>, an agentic fact-checker for multimodal social media content. My PhD advisor is <a href="https://www.cs.utexas.edu/~mooney/">Ray Mooney</a>.
+                 and Research Scientist at <a href="https://blackbird.ai">Blackbird.AI</a>, where I created <a href="https://blackbird.ai/compass-context/">Compass</a>, an agentic research and analysis application for multimodal social media content. My PhD advisor is <a href="https://www.cs.utexas.edu/~mooney/">Ray Mooney</a>.
                 <ul></ul>
                 <b>Research:</b> My research centers on grounded natural language processing, reinforcement learning, and robotics. Broadly, I am interested in creating AI systems that can understand and interact with complex environments through language and action.
                 <ul></ul>
