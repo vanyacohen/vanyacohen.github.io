@@ -1,6 +1,6 @@
 ## News
 
-- **[May 2025]**: Our TMLR 2024 paper, [**Compositional Instruction Following with Language Models and Reinforcement Learning**](https://arxiv.org/abs/2501.12539), has been accepted to the 2nd annual [Reinforcement Learning Conference (RLC 2025)](https://rl-conference.cc). We ntroduce a novel in-context reinforcement learning approach that achieves systematic compositional generalization in text-image RL tasks.
+- **[May 2025]**: Our TMLR 2024 paper, [**Compositional Instruction Following with Language Models and Reinforcement Learning**](https://arxiv.org/abs/2501.12539), has been accepted to the 2nd annual [Reinforcement Learning Conference (RLC) 2025](https://rl-conference.cc). We ntroduce a novel in-context reinforcement learning approach that achieves systematic compositional generalization in text-image RL tasks.
 
 - **[November 2024]**: Excited to share **CaT-Bench**! Our benchmark, [**CaT-Bench: Benchmarking Language Model Understanding of Causal and Temporal Dependencies in Plans**](http://www.arxiv.org/abs/2406.15823), presented at [EMNLP 2024](https://2024.emnlp.org/), evaluates how language models handle step dependencies in procedure understanding, revealing challenges for state-of-the-art models. [Check out CaT-Bench on HuggingFace](https://huggingface.co/datasets/vanyacohen/CaT-Bench) and explore the [code here](https://github.com/StonyBrookNLP/CaT-Bench).
 
