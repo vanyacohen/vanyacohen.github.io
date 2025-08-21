@@ -30,10 +30,10 @@
                 <ul></ul>
                 <b>Research:</b> My research centers on grounded natural language processing, reinforcement learning, and robotics. Broadly, I am interested in creating AI systems that can understand and interact with complex environments through language and action.
                 <ul></ul>
-                <b>Timeline:</b> I was a consultant and research scientist at <a href="https://blackbird.ai">Blackbird.AI</a>, where I created <a href="https://blackbird.ai/compass-context/">Compass</a>, an agentic research and analysis application for multimodal social media content. Before starting my PhD, I worked at <a href="https://en.wikipedia.org/wiki/Luminoso">Luminoso</a> in Boston, contributing to <a href="https://conceptnet.io">ConceptNet</a>.<br>
-                I completed my B.Sc. and M.Sc. in Computer Science at 
+                <b>Timeline:</b> I completed my B.Sc. and M.Sc. in Computer Science at 
                 <a href="https://cs.brown.edu">Brown University</a>, where I was advised by Stefanie Tellex and George Konidaris in the 
                 <a href="https://h2r.cs.brown.edu">Humans to Robots Lab</a>.
+                During my PhD, I was a consultant and research scientist at <a href="https://blackbird.ai">Blackbird.AI</a>, where I created <a href="https://blackbird.ai/compass-context/">Compass</a>, an agentic research and analysis application for multimodal social media content. Before my PhD, I worked at <a href="https://en.wikipedia.org/wiki/Luminoso">Luminoso</a> in Boston, contributing to <a href="https://conceptnet.io">ConceptNet</a>.<br>
                 <ul></ul>
                 <b>Fun facts:</b> I co-created the first publicly released, open-source LLM <a href="https://www.wired.com/story/dangerous-ai-open-source/">OpenGPT-2</a> and dataset <a href="https://huggingface.co/datasets/Skylion007/openwebtext">OpenWebText</a>. My <a href="https://www.csauthors.net/distance/vanya-cohen/paul-erdos">Erdős number is 3</a>.
             </td>

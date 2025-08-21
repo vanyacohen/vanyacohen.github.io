@@ -14,6 +14,19 @@
 <!-- Your content starts here -->
 ## Publications
 
+### 2025
+<div class="paper-container" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/assets/img/cerlla.png" alt="CERLLA" class="paper-image" style="width: 150px; margin-right: 15px;">
+  <div>
+    <a href="https://arxiv.org/abs/2501.12539" style="font-weight: bold;">Compositional Instruction Following with Language Models and Reinforcement Learning</a><br>
+    <strong>Vanya Cohen*</strong>, Geraud Nangue Tasse*, Nakul Gopalan, Steven James, Matthew Gombolay, Ray Mooney, Benjamin Rosman.<br>
+    <em>Reinforcement Learning Conference (RLC) 2025</em>, August 2025.<br>
+    <a href="https://arxiv.org/abs/2501.12539">[paper]</a>
+    <a href="assets/slides/Compositional_Instruction_Following_with_Language_Models_and_Reinforcement_Learning_RLC_2025.pdf">[slides]</a><br>
+    Introduces a novel semantic parsing technique that leverages policy rollouts within an environment and in-context learning. This approach enables solving the (currently) largest simultaneously learned suite of compositional language-RL tasks.
+  </div>
+</div>
+
 ### 2024
 <div class="paper-container" style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/assets/img/cerlla.png" alt="CERLLA" class="paper-image" style="width: 150px; margin-right: 15px;">
