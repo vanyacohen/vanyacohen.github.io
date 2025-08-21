@@ -33,7 +33,7 @@
   <div>
     <a href="https://arxiv.org/abs/2501.12539" style="font-weight: bold;">Compositional Instruction Following with Language Models and Reinforcement Learning</a><br>
     <strong>Vanya Cohen*</strong>, Geraud Nangue Tasse*, Nakul Gopalan, Steven James, Matthew Gombolay, Ray Mooney, Benjamin Rosman.<br>
-    <em>TMLR 2024</em>, December 2024. <em>Reinforcement Learning Conference (RLC) 2025</em>, August 2025.<br>
+    <em>TMLR 2024</em>, December 2024.<br>
     <a href="https://arxiv.org/abs/2501.12539">[paper]</a><br>
     Introduces a novel semantic parsing technique that leverages policy rollouts within an environment and in-context learning. This approach enables solving the (currently) largest simultaneously learned suite of compositional language-RL tasks.
   </div>
