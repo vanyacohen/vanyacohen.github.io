@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/blog/</loc>
+<loc>https://vanyacohen.com/blog/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>https://vanyacohen.com/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/assets/cv/CV.pdf</loc>
-<lastmod>2024-12-15T21:59:01+00:00</lastmod>
+<loc>https://vanyacohen.com/assets/cv/CV.pdf</loc>
+<lastmod>2026-02-07T21:24:18+00:00</lastmod>
+</url>
+<url>
+<loc>https://vanyacohen.com/assets/slides/Compositional_Instruction_Following_with_Language_Models_and_Reinforcement_Learning_RLC_2025.pdf</loc>
+<lastmod>2026-02-07T21:24:18+00:00</lastmod>
 </url>
 </urlset>
