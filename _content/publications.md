@@ -2,7 +2,7 @@
 
 ### 2025
 <div class="paper-container">
-  <img src="/assets/img/cerlla.png" alt="CERLLA" class="paper-image">
+  <div class="paper-image-wrapper"><img src="/assets/img/cerlla.png" alt="CERLLA"></div>
   <div>
     <a href="https://arxiv.org/abs/2501.12539" style="font-weight: bold;">Compositional Instruction Following with Language Models and Reinforcement Learning</a><br>
     <strong>Vanya Cohen*</strong>, Geraud Nangue Tasse*, Nakul Gopalan, Steven James, Matthew Gombolay, Ray Mooney, Benjamin Rosman.<br>
@@ -15,7 +15,7 @@
 
 ### 2024
 <div class="paper-container">
-  <img src="/assets/img/cerlla.png" alt="CERLLA" class="paper-image">
+  <div class="paper-image-wrapper"><img src="/assets/img/cerlla.png" alt="CERLLA"></div>
   <div>
     <a href="https://arxiv.org/abs/2501.12539" style="font-weight: bold;">Compositional Instruction Following with Language Models and Reinforcement Learning</a><br>
     <strong>Vanya Cohen*</strong>, Geraud Nangue Tasse*, Nakul Gopalan, Steven James, Matthew Gombolay, Ray Mooney, Benjamin Rosman.<br>
@@ -26,7 +26,7 @@
 </div>
 
 <div class="paper-container">
-  <img src="/assets/img/catbench.png" alt="CaT-Bench" class="paper-image">
+  <div class="paper-image-wrapper"><img src="/assets/img/catbench.png" alt="CaT-Bench"></div>
   <div>
     <a href="http://www.arxiv.org/abs/2406.15823" style="font-weight: bold;">CaT-Bench: Benchmarking Language Model Understanding of Causal and Temporal Dependencies in Plans</a><br>
     Yash Kumar Lal*, <strong>Vanya Cohen*</strong>, Nathanael Chambers, Niranjan Balasubramanian, Raymond Mooney.<br>
@@ -39,7 +39,7 @@
 </div>
 
 <div class="paper-container">
-  <img src="/assets/img/lang-survey.png" alt="Language Grounding Survey" class="paper-image">
+  <div class="paper-image-wrapper"><img src="/assets/img/lang-survey.png" alt="Language Grounding Survey"></div>
   <div>
     <a href="http://www.arxiv.org/abs/2405.13245" style="font-weight: bold;">A Survey of Robotic Language Grounding: Tradeoffs Between Symbols and Embeddings</a><br>
     <strong>Vanya Cohen*</strong>, Jason Xinyu Liu*, Raymond Mooney*, Stefanie Tellex*, David Watkins*.<br>
@@ -51,7 +51,7 @@
 </div>
 
 <div class="paper-container">
-  <img src="/assets/img/cape.png" alt="CAPE" class="paper-image">
+  <div class="paper-image-wrapper"><img src="/assets/img/cape.png" alt="CAPE"></div>
   <div>
     <a href="http://www.arxiv.org/abs/2211.09935" style="font-weight: bold;">CAPE: Corrective Actions from Precondition Errors using Large Language Models</a><br>
     Shreyas Sundara Raman, <strong>Vanya Cohen</strong>, Ifrah Idrees, Eric Rosen, Ray Mooney, Stefanie Tellex, David Paulius.<br>
@@ -66,7 +66,7 @@
 ### 2023
 
 <div class="paper-container">
-  <img src="/assets/img/planning_semantic_parsing.png" alt="Using Planning to Improve Semantic Parsing of Instructional Texts" class="paper-image">
+  <div class="paper-image-wrapper"><img src="/assets/img/planning_semantic_parsing.png" alt="Using Planning to Improve Semantic Parsing of Instructional Texts"></div>
   <div>
     <a href="https://aclanthology.org/2023.nlrse-1.5.pdf" style="font-weight: bold;">Using Planning to Improve Semantic Parsing of Instructional Texts</a><br>
     <strong>Vanya Cohen</strong>, Raymond Mooney<br>
@@ -79,7 +79,7 @@
 ### 2022
 
 <div class="paper-container">
-  <img src="/assets/img/compositional_policies_corl2022.png" alt="End-to-End Learning to Follow Language Instructions with Compositional Policies" class="paper-image">
+  <div class="paper-image-wrapper"><img src="/assets/img/compositional_policies_corl2022.png" alt="End-to-End Learning to Follow Language Instructions with Compositional Policies"></div>
   <div>
     <a href="https://openreview.net/pdf?id=ZysLprv3e69" style="font-weight: bold;">End-to-End Learning to Follow Language Instructions with Compositional Policies</a><br>
     <strong>Vanya Cohen*</strong>, Geraud Nangue Tasse*, Nakul Gopalan, Steven James, Ray Mooney, Benjamin Rosman<br>
@@ -92,7 +92,7 @@
 ### 2021
 
 <div class="paper-container">
-  <img src="/assets/img/compositional_policies_aaai_fss_2.png" alt="Learning to Follow Language Instructions with Compositional Policies" class="paper-image">
+  <div class="paper-image-wrapper"><img src="/assets/img/compositional_policies_aaai_fss_2.png" alt="Learning to Follow Language Instructions with Compositional Policies"></div>
   <div>
     <a href="https://arxiv.org/pdf/2110.04647" style="font-weight: bold;">Learning to Follow Language Instructions with Compositional Policies</a><br>
     <strong>Vanya Cohen*</strong>, Geraud Nangue Tasse*, Nakul Gopalan, Steven James, Matthew Gombolay, Benjamin Rosman<br>
@@ -105,7 +105,7 @@
 ### 2020
 
 <div class="paper-container">
-  <img src="/assets/img/newinml_neurips2020.png" alt="NewInML @ NeurIPS 2020" class="paper-image">
+  <div class="paper-image-wrapper"><img src="/assets/img/newinml_neurips2020.png" alt="NewInML @ NeurIPS 2020"></div>
   <div>
     <a href="https://nips.cc/virtual/2020/public/affinity_workshop_19448.html" style="font-weight: bold;">Co-Organizer: NewInML @ NeurIPS 2020: A Workshop for Newcomers to Machine Learning</a><br>
     Zhen Xu, <strong>Vanya Cohen</strong>, Shruti Mishra, MingYu Lu<br>
@@ -116,7 +116,7 @@
 </div>
 
 <div class="paper-container">
-  <img src="/assets/img/opengpt2_xrds.png" alt="OpenGPT-2" class="paper-image">
+  <div class="paper-image-wrapper"><img src="/assets/img/opengpt2_xrds.png" alt="OpenGPT-2"></div>
   <div>
     <a href="https://dl.acm.org/doi/abs/10.1145/3416063" style="font-weight: bold;">OpenGPT-2: Open Language Models and Implications of Generated Text</a><br>
     <strong>Vanya Cohen</strong>, Aaron Gokaslan<br>
@@ -129,7 +129,7 @@
 ### 2019
 
 <div class="paper-container">
-  <img src="/assets/img/opengpt2.png" alt="OpenGPT-2" class="paper-image">
+  <div class="paper-image-wrapper"><img src="/assets/img/opengpt2.png" alt="OpenGPT-2"></div>
   <div>
     <a href="https://medium.com/@vanya_cohen/opengpt-2-we-replicated-gpt-2-because-you-can-too-45e34e6d36dc" style="font-weight: bold;">OpenGPT-2: We Replicated GPT-2 Because You Can Too</a><br>
     Aaron Gokaslan*, <strong>Vanya Cohen*</strong>, Ellie Pavlick, Stefanie Tellex.<br>
@@ -141,7 +141,7 @@
 </div>
 
 <div class="paper-container">
-  <img src="/assets/img/beo-lang.png" alt="Bayesian Eigenobjects" class="paper-image">
+  <div class="paper-image-wrapper"><img src="/assets/img/beo-lang.png" alt="Bayesian Eigenobjects"></div>
   <div>
     <a href="http://www.arxiv.org/abs/1905.13153" style="font-weight: bold;">Grounding Language Attributes to Objects using Bayesian Eigenobjects</a><br>
     <strong>Vanya Cohen*</strong>, Benjamin Burchfiel*, Thao Nguyen*, Nakul Gopalan, Stefanie Tellex, George Konidaris.<br>
@@ -154,7 +154,7 @@
 </div>
 
 <div class="paper-container">
-  <img src="/assets/img/openwebtext.png" alt="OpenWebText" class="paper-image">
+  <div class="paper-image-wrapper"><img src="/assets/img/openwebtext.png" alt="OpenWebText"></div>
   <div>
     <a href="https://huggingface.co/datasets/Skylion007/openwebtext" style="font-weight: bold;">OpenWebText: An Open Source Replication of OpenAI's WebText</a><br>
     Aaron Gokaslan*, <strong>Vanya Cohen*</strong>, Ellie Pavlick, Stefanie Tellex.<br>

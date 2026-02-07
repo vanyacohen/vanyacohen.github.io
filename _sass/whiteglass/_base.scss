@@ -359,17 +359,21 @@ h2 {
   margin-bottom: $spacing-unit;
 }
 
-.highlight-card {
+a.highlight-card {
+  display: block;
   background: $grey-color-light;
   border-radius: $border-radius;
   padding: 24px;
   transition: $transition;
   border: 1px solid transparent;
+  text-decoration: none;
+  cursor: pointer;
 
   &:hover {
     border-color: $brand-color;
     box-shadow: $shadow-md;
     transform: translateY(-2px);
+    text-decoration: none;
   }
 
   h3 {
@@ -381,15 +385,7 @@ h2 {
     line-height: 1.3;
     border-bottom: none;
     padding-bottom: 0;
-
-    a {
-      color: $text-color;
-
-      &:hover {
-        color: $brand-color;
-        text-decoration: none;
-      }
-    }
+    color: $text-color;
   }
 
   p {
@@ -428,11 +424,33 @@ h2 {
     box-shadow: $shadow-sm;
   }
 
-  .paper-image {
-    width: 130px;
-    flex-shrink: 0;
+  .paper-image-wrapper {
+    width: 180px;
+    min-width: 180px;
+    flex: 0 0 180px;
     margin-right: 20px;
-    border-radius: $border-radius / 2;
+    display: flex;
+    align-items: center;
+    align-self: center;
+
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+  }
+
+  .paper-image {
+    width: 180px;
+    min-width: 180px;
+    flex: 0 0 180px;
+    margin-right: 20px;
+    align-self: center;
+  }
+
+  > div {
+    flex: 1;
+    min-width: 0;
   }
 
   a[style*="font-weight: bold"] {
