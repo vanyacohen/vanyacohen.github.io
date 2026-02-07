@@ -1,27 +1,39 @@
 // Define defaults for each variable.
-$base-font-family: Bitter, "Apple SD Gothic Neo", "Noto Sans", "Source Han Sans", "Noto Sans CJK JP", "Source Han Sans JP", "Noto Sans CJK KR", "Source Han Sans KR", NanumBarunGothic, AppleGothic, "Malgun Gothic", Dotum, sans-serif !default;
+$base-font-family: "Source Serif 4", Georgia, "Times New Roman", serif !default;
+$heading-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !default;
 $monospace-font-family: Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace !default;
-$base-font-size:   16px !default;
+$base-font-size:   17px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
-$base-line-height: 1.5 !default;
+$base-line-height: 1.6 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #111 !default;
-$background-color: #fdfdfd !default;
-$brand-color:      #2568ba !default;
+$text-color:       #1a1a2e !default;
+$text-color-light: #4a4a68 !default;
+$background-color: #ffffff !default;
+$brand-color:      #2563eb !default;
+$brand-color-light: #dbeafe !default;
+$brand-color-dark:  #1d4ed8 !default;
+$accent-color:     #7c3aed !default;
 
-$grey-color:       #828282 !default;
-$grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
+$grey-color:       #6b7280 !default;
+$grey-color-light: #f3f4f6 !default;
+$grey-color-dark:  #374151 !default;
+
+$border-color:     #e5e7eb !default;
 
 // Width of the content area
-$content-width:    1400px !default;
+$content-width:    900px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        1000px !default;
 
+$border-radius:    8px !default;
+$shadow-sm:        0 1px 2px 0 rgba(0, 0, 0, 0.05) !default;
+$shadow-md:        0 4px 6px -1px rgba(0, 0, 0, 0.07), 0 2px 4px -2px rgba(0, 0, 0, 0.05) !default;
+$shadow-lg:        0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -4px rgba(0, 0, 0, 0.04) !default;
+$transition:       all 0.2s ease !default;
 
 
 // Use media queries like this:

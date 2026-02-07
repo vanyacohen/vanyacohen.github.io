@@ -3,22 +3,32 @@
  */
 .site-header {
   min-height: 56px;
-
-  // Positioning context for the mobile navigation icon
-  position: relative;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid $border-color;
 }
 
 .site-title {
-  font-size: 25px;
-  font-weight: 300;
+  font-family: $heading-font-family;
+  font-size: 20px;
+  font-weight: 700;
   line-height: 56px;
-  letter-spacing: -1px;
+  letter-spacing: -0.5px;
   margin-bottom: 0;
   float: left;
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $text-color;
+  }
+
+  &:hover {
+    color: $brand-color;
+    text-decoration: none;
   }
 }
 
@@ -27,12 +37,21 @@
   line-height: 56px;
 
   .page-link {
-    color: $text-color;
+    font-family: $heading-font-family;
+    font-size: 14px;
+    font-weight: 500;
+    color: $text-color-light;
     line-height: $base-line-height;
+    transition: $transition;
+
+    &:hover {
+      color: $brand-color;
+      text-decoration: none;
+    }
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
-      margin-right: 20px;
+      margin-right: 24px;
     }
   }
 
@@ -54,10 +73,13 @@
  * Site footer
  */
 .site-footer {
-  padding: $spacing-unit 0;
-  font-size: 15px;
+  padding: $spacing-unit * 1.5 0;
+  font-size: 14px;
+  font-family: $heading-font-family;
   color: $grey-color;
   text-align: center;
+  border-top: 1px solid $border-color;
+  margin-top: $spacing-unit * 2;
 }
 
 
@@ -66,7 +88,7 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  padding: $spacing-unit * 1.5 0;
 }
 
 .page-heading {
@@ -169,14 +191,6 @@
   }
 
   h2 {
-    font-size: 32px;
-
-    @include media-query($on-laptop) {
-      font-size: 28px;
-    }
-  }
-
-  h3 {
     font-size: 26px;
 
     @include media-query($on-laptop) {
@@ -184,11 +198,19 @@
     }
   }
 
-  h4 {
+  h3 {
     font-size: 20px;
 
     @include media-query($on-laptop) {
       font-size: 18px;
+    }
+  }
+
+  h4 {
+    font-size: 18px;
+
+    @include media-query($on-laptop) {
+      font-size: 16px;
     }
   }
 }
@@ -200,8 +222,8 @@
  */
 .pagination {
   padding: $spacing-unit / 2 0;
-  border-top: 1px solid $grey-color-light;
-  border-bottom: 1px solid $grey-color-light;
+  border-top: 1px solid $border-color;
+  border-bottom: 1px solid $border-color;
   text-align: center;
   @extend %clearfix;
 

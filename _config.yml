@@ -16,7 +16,7 @@
 title: Vanya Cohen
 author: Vanya Cohen
 email:
-description: PhD Student in Computer Science at UT Austin.
+description: "Vanya Cohen - PhD Student at UT Austin researching grounded NLP, reinforcement learning, and robotics. Creator of OpenGPT-2 and OpenWebText."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vanyacohen.com" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
