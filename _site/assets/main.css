@@ -385,10 +385,10 @@ a.highlight-card .highlight-meta {
   box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
 }
 .paper-container .paper-image-wrapper {
-  width: 180px;
-  min-width: 180px;
-  flex: 0 0 180px;
-  margin-right: 20px;
+  width: 280px;
+  min-width: 280px;
+  flex: 0 0 280px;
+  margin-right: 24px;
   display: flex;
   align-items: center;
   align-self: center;
@@ -399,10 +399,10 @@ a.highlight-card .highlight-meta {
   display: block;
 }
 .paper-container .paper-image {
-  width: 180px;
-  min-width: 180px;
-  flex: 0 0 180px;
-  margin-right: 20px;
+  width: 280px;
+  min-width: 280px;
+  flex: 0 0 280px;
+  margin-right: 24px;
   align-self: center;
 }
 .paper-container > div {
