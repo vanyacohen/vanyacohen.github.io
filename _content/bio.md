@@ -3,19 +3,16 @@
     <img src="/assets/img/profile.jpg" alt="Vanya Cohen" class="profile-photo"/>
     <div class="contact-info">
       <div><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> <a href='https://mailhide.io/e/OW8hdvV3'>Email</a></div>
-      <div><i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> Boston, MA</div>
     </div>
     <div class="social-links">
       <a href="https://scholar.google.com/citations?user=VSc-eTAAAAAJ" rel="nofollow noopener noreferrer" title="Google Scholar"><i class="fas fa-graduation-cap" aria-hidden="true"></i></a>
-      <a href="https://github.com/vanyacohen" rel="nofollow noopener noreferrer" title="GitHub"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
       <a href="https://www.linkedin.com/in/vanyacohen" rel="nofollow noopener noreferrer" title="LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i></a>
-      <a href="https://twitter.com/vanyacohen" rel="nofollow noopener noreferrer" title="Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i></a>
     </div>
   </div>
   <div class="about-content">
     <p>
       I am a PhD Student at the
-      <a href="https://www.cs.utexas.edu/~ml/">University of Texas at Austin</a>. My PhD advisor is <a href="https://www.cs.utexas.edu/~mooney/">Ray Mooney</a>.
+      <a href="https://www.cs.utexas.edu/~ml/">University of Texas at Austin</a> and Student Researcher at <a href="https://deepmind.google">Google DeepMind</a>. My PhD advisor is <a href="https://www.cs.utexas.edu/~mooney/">Ray Mooney</a>.
     </p>
     <p>
       <b>Research:</b> My research centers on grounded natural language processing, reinforcement learning, and robotics. Broadly, I am interested in creating AI systems that can understand and interact with complex environments through language and action.

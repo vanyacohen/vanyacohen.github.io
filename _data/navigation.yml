@@ -9,7 +9,5 @@ main:
     url: /#news
   - title: "Publications"
     url: /#publications
-  - title: "Blog"
-    url: https://substack.com/@vanyacohen
   - title: "CV"
     url: /assets/cv/CV.pdf

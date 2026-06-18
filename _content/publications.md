@@ -1,5 +1,17 @@
 ## Publications
 
+### 2026
+<div class="paper-container">
+  <div class="paper-image-wrapper"><img src="/assets/img/met-bench.png" alt="MET-Bench"></div>
+  <div>
+    <a href="https://arxiv.org/abs/2502.10886" style="font-weight: bold;">MET-Bench: Multimodal Entity Tracking for Evaluating the Limitations of Vision-Language and Reasoning Models</a><br>
+    <strong>Vanya Cohen</strong>, Raymond Mooney.<br>
+    <em>ICML 2026</em>, July 2026.<br>
+    <a href="https://arxiv.org/abs/2502.10886">[paper]</a><br>
+    A multimodal benchmark for evaluating entity-state tracking in vision-language models across three domains. We find a significant gap between text-based and image-based tracking that stems primarily from visual reasoning rather than perception, and show that reinforcement learning improves in-modality performance for open-source VLMs but does not transfer robustly across input modalities.
+  </div>
+</div>
+
 ### 2025
 <div class="paper-container">
   <div class="paper-image-wrapper"><img src="/assets/img/cerlla.png" alt="CERLLA"></div>
